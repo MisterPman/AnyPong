@@ -11,6 +11,10 @@ TagManager:
   - VictoryPanel
   - BlockMaster
   - GameMaster
+  - Life1
+  - Life2
+  - Life3
+  - FireWorks
   layers:
   - Default
   - TransparentFX
