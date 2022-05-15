@@ -7,6 +7,10 @@ TagManager:
   - Block
   - BossBlock
   - Ball
+  - GameOverPanel
+  - VictoryPanel
+  - BlockMaster
+  - GameMaster
   layers:
   - Default
   - TransparentFX
