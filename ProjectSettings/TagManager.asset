@@ -15,6 +15,9 @@ TagManager:
   - Life2
   - Life3
   - FireWorks
+  - ResetBallLeft
+  - ResetBallRight
+  - BlockBurst
   layers:
   - Default
   - TransparentFX
