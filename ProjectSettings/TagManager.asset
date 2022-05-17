@@ -18,6 +18,8 @@ TagManager:
   - ResetBallLeft
   - ResetBallRight
   - BlockBurst
+  - Sprite Holder
+  - Music
   layers:
   - Default
   - TransparentFX
